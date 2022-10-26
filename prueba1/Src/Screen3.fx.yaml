@@ -1,3 +1,9 @@
 Screen3 As screen:
     Fill: =RGBA(54, 176, 75, 1)
 
+    Button2 As button:
+        Text: ="Botón"
+        X: =40
+        Y: =40
+        ZIndex: =1
+
