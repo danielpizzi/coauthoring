@@ -19,3 +19,10 @@ Screen1 As screen:
         Y: =115
         ZIndex: =4
 
+    Image1 As image:
+        Image: |-
+            =https://images.ole.com.ar/2022/05/05/fqOPJqCun_340x340__1.jpg
+        X: =40
+        Y: =40
+        ZIndex: =5
+
