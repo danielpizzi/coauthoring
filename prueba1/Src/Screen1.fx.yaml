@@ -1,2 +1,8 @@
 Screen1 As screen:
 
+    Button1 As button:
+        Text: ="Botón"
+        X: =462
+        Y: =288
+        ZIndex: =1
+
