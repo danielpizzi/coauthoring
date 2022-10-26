@@ -1,5 +1,4 @@
 Screen1 As screen:
-    Fill: =RGBA(220, 153, 153, 1)
 
     Button1 As button:
         Text: ="Botón"
