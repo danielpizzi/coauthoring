@@ -8,15 +8,9 @@ Screen1 As screen:
 
     Label1 As label:
         Text: ="Holi"
-        X: =1192
-        Y: =32
+        X: =316
+        Y: =48
         ZIndex: =2
-
-    Button2 As button:
-        Text: ="Botón"
-        X: =138
-        Y: =658
-        ZIndex: =3
 
     Button3 As button:
         Text: ="Ricci"
