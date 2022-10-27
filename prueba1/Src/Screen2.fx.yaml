@@ -1,8 +1,8 @@
 Screen2 As screen:
 
     Rectangle1 As rectangle:
-        X: =142
-        Y: =236
+        X: =285
+        Y: =235
         ZIndex: =2
 
     TextInput1 As text:
