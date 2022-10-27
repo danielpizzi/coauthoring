@@ -1,15 +1,9 @@
 {
   "ComponentIndexes": {},
   "ControlUniqueGuids": {},
-  "ControlUniqueIds": {
-    "App": 1,
-    "DatePicker1": 5,
-    "Screen1": 3,
-    "ScreenRicardo": 4
-  },
+  "ControlUniqueIds": {},
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "10/27/2022 14:29:05",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -21,28 +15,9 @@
   "OrderGroupControls": {},
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
-  "OrderXMLTemplate": {
-    "datepicker": 0
-  },
-  "PublishOrderIndices": {
-    "App": 0,
-    "DatePicker1": 4,
-    "Screen1": 2,
-    "ScreenRicardo": 3
-  },
-  "ResourcesJsonIndices": {
-    "Image-SampleImage": 0
-  },
+  "OrderXMLTemplate": {},
+  "PublishOrderIndices": {},
+  "ResourcesJsonIndices": {},
   "RuleScreenIdWithoutScreen": {},
-  "TemplateVersions": {},
-  "VolatileProperties": {
-    "AnalysisLoadTime": 0.0574475,
-    "ControlCount": {
-      "datepicker": 1,
-      "screen": 2
-    },
-    "DeserializationLoadTime": 1.8724546,
-    "ErrorCount": 0
-  },
-  "WasLocalDatabaseReferencesEmpty": true
+  "TemplateVersions": {}
 }
