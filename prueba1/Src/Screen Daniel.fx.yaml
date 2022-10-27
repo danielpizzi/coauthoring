@@ -1,0 +1,11 @@
+"'Screen Daniel' As screen":
+    Fill: =RGBA(167, 182, 203, 1)
+
+    Button1 As button:
+        Height: =140
+        Text: ="Botón"
+        Width: =355
+        X: =526
+        Y: =272
+        ZIndex: =1
+
