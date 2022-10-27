@@ -1,26 +1,9 @@
 {
   "ComponentIndexes": {},
   "ControlUniqueGuids": {},
-  "ControlUniqueIds": {
-    "App": 1,
-    "Button1": 15,
-    "Button2": 12,
-    "Button3": 6,
-    "Button4": 10,
-    "DatePicker1": 16,
-    "DatePicker2": 8,
-    "Label1": 14,
-    "Rectangle1": 7,
-    "Screen1": 3,
-    "Screen2": 4,
-    "Screen3": 11,
-    "ScreenRicardo": 13,
-    "TextInput1": 5,
-    "TextInput2": 9
-  },
+  "ControlUniqueIds": {},
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "10/27/2022 14:44:06",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -32,47 +15,9 @@
   "OrderGroupControls": {},
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
-  "OrderXMLTemplate": {
-    "button": 1,
-    "datepicker": 3,
-    "label": 4,
-    "rectangle": 2,
-    "text": 0
-  },
-  "PublishOrderIndices": {
-    "App": 0,
-    "Button1": 14,
-    "Button2": 11,
-    "Button3": 5,
-    "Button4": 9,
-    "DatePicker1": 15,
-    "DatePicker2": 7,
-    "Label1": 13,
-    "Rectangle1": 6,
-    "Screen1": 2,
-    "Screen2": 3,
-    "Screen3": 10,
-    "ScreenRicardo": 12,
-    "TextInput1": 4,
-    "TextInput2": 8
-  },
-  "ResourcesJsonIndices": {
-    "Image-SampleImage": 0
-  },
+  "OrderXMLTemplate": {},
+  "PublishOrderIndices": {},
+  "ResourcesJsonIndices": {},
   "RuleScreenIdWithoutScreen": {},
-  "TemplateVersions": {},
-  "VolatileProperties": {
-    "AnalysisLoadTime": 0.0486796,
-    "ControlCount": {
-      "button": 4,
-      "datepicker": 2,
-      "label": 1,
-      "rectangle": 1,
-      "screen": 4,
-      "text": 2
-    },
-    "DeserializationLoadTime": 1.1832521,
-    "ErrorCount": 0
-  },
-  "WasLocalDatabaseReferencesEmpty": true
+  "TemplateVersions": {}
 }
