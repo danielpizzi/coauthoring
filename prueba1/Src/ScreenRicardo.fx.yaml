@@ -1,17 +1,5 @@
 ScreenRicardo As screen:
 
-    Label1 As label:
-        Text: ="Text"
-        X: =115
-        Y: =270
-        ZIndex: =1
-
-    Button1 As button:
-        Text: ="Button"
-        X: =211
-        Y: =270
-        ZIndex: =2
-
     DatePicker1 As datepicker:
         X: =411
         Y: =270
