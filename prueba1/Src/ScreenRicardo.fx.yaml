@@ -19,3 +19,9 @@ ScreenRicardo As screen:
         Y: =40
         ZIndex: =3
 
+    Button5 As button:
+        Text: ="Botón"
+        X: =428
+        Y: =527
+        ZIndex: =4
+
