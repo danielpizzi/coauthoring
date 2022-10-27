@@ -110,6 +110,7 @@
   },
   "ScreenOrder": [
     "Screen1",
-    "ScreenRicardo"
+    "ScreenRicardo",
+    "Screen2"
   ]
 }
