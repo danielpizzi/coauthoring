@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "HasLibraryLogicalName": true,
+    "InstanceCount": 1,
+    "LibraryId": "dec12a02-7b77-4c2f-bf13-fbd944dab456",
+    "LibraryLogicalName": "crf05_librarytest_eb9c1",
+    "LibraryVersion": "2022-10-27T14:54:48Z",
+    "OriginalComponentDefinitionTemplateId": "5a3e3819ca604a26ab98d1ce1ac4a734",
+    "RefusedSourceLastTimeSaved": "0001-01-01T00:00:00",
+    "SourceLastTimeSaved": "2022-10-27T14:54:48.793+00:00"
+  }
+]
