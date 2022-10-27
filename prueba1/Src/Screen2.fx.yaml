@@ -4,36 +4,36 @@ Screen2 As screen:
     Rectangle1 As rectangle:
         Fill: =RGBA(151, 0, 0, 1)
         Height: =295
-        X: =130
-        Y: =266
+        X: =23
+        Y: =31
         ZIndex: =2
 
     TextInput1 As text:
         Default: ="Text input"
-        X: =328
-        Y: =266
+        X: =23
+        Y: =552
         ZIndex: =3
 
     DatePicker2 As datepicker:
-        X: =328
-        Y: =353
+        X: =15
+        Y: =608
         ZIndex: =4
 
     Button3 As button:
         Text: ="Button"
-        X: =760
-        Y: =112
+        X: =1160
+        Y: =48
         ZIndex: =5
 
     TextInput2 As text:
         Default: ="Text input"
-        X: =975
-        Y: =326
+        X: =23
+        Y: =673
         ZIndex: =6
 
     Button4 As button:
         Text: ="Button"
-        X: =688
-        Y: =592
+        X: =1160
+        Y: =117
         ZIndex: =7
 
