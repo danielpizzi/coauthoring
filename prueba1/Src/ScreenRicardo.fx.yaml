@@ -7,6 +7,7 @@ ScreenRicardo As screen:
         ZIndex: =1
 
     Button1 As button:
+        Fill: =RGBA(255, 0, 0, 1)
         Text: ="Button"
         X: =268
         Y: =40
