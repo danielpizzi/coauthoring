@@ -8,7 +8,7 @@ ScreenRicardo As screen:
         ZIndex: =1
 
     Button1 As button:
-        Fill: =RGBA(54, 176, 75, 1)
+        Fill: =RGBA(0, 13, 75, 1)
         Text: ="Button"
         X: =268
         Y: =40
@@ -24,4 +24,9 @@ ScreenRicardo As screen:
         X: =428
         Y: =527
         ZIndex: =4
+
+    Component1_1 As Component1:
+        X: =726
+        Y: =128
+        ZIndex: =5
 
