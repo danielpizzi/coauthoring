@@ -1,8 +1,0 @@
-"'Screen Julian' As screen":
-
-    TextInput1 As text:
-        Default: ="Escribí tu nombre"
-        X: =88
-        Y: =84
-        ZIndex: =1
-
