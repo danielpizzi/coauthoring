@@ -30,3 +30,8 @@ ScreenRicardo As screen:
         Y: =128
         ZIndex: =5
 
+    Component1_3 As Component1_2:
+        Texto: ="Prueba"
+        Y: =128
+        ZIndex: =6
+
