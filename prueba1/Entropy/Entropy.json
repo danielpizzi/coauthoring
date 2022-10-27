@@ -3,13 +3,11 @@
   "ControlUniqueGuids": {},
   "ControlUniqueIds": {
     "App": 1,
-    "DatePicker1": 5,
-    "Screen1": 3,
-    "ScreenRicardo": 4
+    "Screen1": 3
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "10/27/2022 14:20:36",
+  "HeaderLastSavedDateTimeUTC": "10/27/2022 14:29:00",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -21,14 +19,10 @@
   "OrderGroupControls": {},
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
-  "OrderXMLTemplate": {
-    "datepicker": 0
-  },
+  "OrderXMLTemplate": {},
   "PublishOrderIndices": {
     "App": 0,
-    "DatePicker1": 4,
-    "Screen1": 2,
-    "ScreenRicardo": 3
+    "Screen1": 2
   },
   "ResourcesJsonIndices": {
     "Image-SampleImage": 0

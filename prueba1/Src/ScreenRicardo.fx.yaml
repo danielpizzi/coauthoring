@@ -1,7 +1,0 @@
-ScreenRicardo As screen:
-
-    DatePicker1 As datepicker:
-        X: =550
-        Y: =275
-        ZIndex: =3
-
