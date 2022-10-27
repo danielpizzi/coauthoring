@@ -1,0 +1,15 @@
+"'Screen Julian' As screen":
+
+    TextInput1 As text:
+        Default: ="Escribí tu nombre"
+        X: =88
+        Y: =84
+        ZIndex: =1
+
+    Label1 As label:
+        Text: ="Hola " & TextInput1.Text & "!"
+        Width: =298
+        X: =513
+        Y: =84
+        ZIndex: =2
+
