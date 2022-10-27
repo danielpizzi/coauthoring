@@ -1,0 +1,11 @@
+Screen3 As screen:
+    Fill: =RGBA(209, 232, 178, 1)
+
+    Button2 As button:
+        Height: =107
+        Text: ="Botón"
+        Width: =385
+        X: =532
+        Y: =308
+        ZIndex: =1
+
