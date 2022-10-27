@@ -1,23 +1,92 @@
 {
-  "ComponentIndexes": {},
+  "ComponentIndexes": {
+    "Component1": 4,
+    "Component1_1": 4
+  },
   "ControlUniqueGuids": {},
-  "ControlUniqueIds": {},
+  "ControlUniqueIds": {
+    "App": 1,
+    "Button1": 16,
+    "Button2": 12,
+    "Button3": 6,
+    "Button4": 10,
+    "Button5": 15,
+    "Component1": 18,
+    "Component1_1": 19,
+    "DatePicker1": 17,
+    "DatePicker2": 9,
+    "Label1": 14,
+    "Rectangle1": 7,
+    "Screen1": 3,
+    "Screen2": 4,
+    "Screen3": 11,
+    "ScreenRicardo": 13,
+    "TextInput1": 5,
+    "TextInput2": 8
+  },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
+  "HeaderLastSavedDateTimeUTC": "10/27/2022 14:50:44",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
   "LocalResourceFileNames": {},
   "LocalResourceRootPaths": {},
-  "OrderComponentMetadata": {},
-  "OrderComponentTemplate": {},
+  "OrderComponentMetadata": {
+    "46d50b477d1240ad906a973934978917": 0
+  },
+  "OrderComponentTemplate": {
+    "46d50b477d1240ad906a973934978917": 0
+  },
   "OrderDataSource": {},
   "OrderGroupControls": {},
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
-  "OrderXMLTemplate": {},
-  "PublishOrderIndices": {},
-  "ResourcesJsonIndices": {},
+  "OrderXMLTemplate": {
+    "button": 1,
+    "datepicker": 3,
+    "label": 4,
+    "rectangle": 2,
+    "text": 0
+  },
+  "PublishOrderIndices": {
+    "App": 0,
+    "Button1": 15,
+    "Button2": 11,
+    "Button3": 5,
+    "Button4": 9,
+    "Button5": 14,
+    "Component1": 0,
+    "Component1_1": 0,
+    "DatePicker1": 16,
+    "DatePicker2": 8,
+    "Label1": 13,
+    "Rectangle1": 6,
+    "Screen1": 2,
+    "Screen2": 3,
+    "Screen3": 10,
+    "ScreenRicardo": 12,
+    "TextInput1": 4,
+    "TextInput2": 7
+  },
+  "ResourcesJsonIndices": {
+    "Image-SampleImage": 0
+  },
   "RuleScreenIdWithoutScreen": {},
-  "TemplateVersions": {}
+  "TemplateVersions": {},
+  "VolatileProperties": {
+    "AnalysisLoadTime": 0.0474411,
+    "ControlCount": {
+      "46d50b477d1240ad906a973934978917": 1,
+      "button": 5,
+      "datepicker": 2,
+      "label": 1,
+      "rectangle": 1,
+      "screen": 4,
+      "text": 2
+    },
+    "DeserializationLoadTime": 0.1732777,
+    "ErrorCount": 0
+  },
+  "WasLocalDatabaseReferencesEmpty": true
 }
