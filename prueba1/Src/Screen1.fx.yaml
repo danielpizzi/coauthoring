@@ -1,27 +1,2 @@
 Screen1 As screen:
 
-    Button1 As button:
-        Text: ="Botón"
-        X: =754
-        Y: =360
-        ZIndex: =1
-
-    Label1 As label:
-        Text: ="Holi"
-        X: =316
-        Y: =48
-        ZIndex: =2
-
-    Button3 As button:
-        Text: ="Ricci"
-        X: =180
-        Y: =115
-        ZIndex: =4
-
-    Image1 As image:
-        Image: |-
-            =https://images.ole.com.ar/2022/05/05/fqOPJqCun_340x340__1.jpg
-        X: =40
-        Y: =40
-        ZIndex: =5
-
