@@ -25,3 +25,8 @@ ScreenRicardo As screen:
         Y: =527
         ZIndex: =4
 
+    Component1_1 As Component1:
+        X: =726
+        Y: =128
+        ZIndex: =5
+
