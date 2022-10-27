@@ -1,0 +1,19 @@
+Screen2 As screen:
+
+    Label1 As label:
+        Text: ="Text"
+        X: =192
+        Y: =196
+        ZIndex: =1
+
+    Rectangle1 As rectangle:
+        X: =142
+        Y: =236
+        ZIndex: =2
+
+    Button1 As button:
+        Text: ="Button"
+        X: =342
+        Y: =266
+        ZIndex: =3
+
