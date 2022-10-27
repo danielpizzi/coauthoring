@@ -13,6 +13,34 @@
     "OverridableProperties": {},
     "Version": "1.0"
   },
+  "button": {
+    "CustomGroupControlTemplateName": "",
+    "FirstParty": true,
+    "Id": "http://microsoft.com/appmagic/button",
+    "IsComponentTemplate": false,
+    "IsCustomGroupControlTemplate": false,
+    "IsPcfControl": false,
+    "IsPremiumPcfControl": false,
+    "IsWidgetTemplate": true,
+    "LastModifiedTimestamp": "0",
+    "Name": "button",
+    "OverridableProperties": {},
+    "Version": "2.2.0"
+  },
+  "datepicker": {
+    "CustomGroupControlTemplateName": "",
+    "FirstParty": true,
+    "Id": "http://microsoft.com/appmagic/datepicker",
+    "IsComponentTemplate": false,
+    "IsCustomGroupControlTemplate": false,
+    "IsPcfControl": false,
+    "IsPremiumPcfControl": false,
+    "IsWidgetTemplate": true,
+    "LastModifiedTimestamp": "0",
+    "Name": "datepicker",
+    "OverridableProperties": {},
+    "Version": "2.6.0"
+  },
   "groupContainer": {
     "FirstParty": true,
     "Id": "http://microsoft.com/appmagic/groupContainer",
@@ -22,6 +50,34 @@
     "LastModifiedTimestamp": "0",
     "Name": "groupContainer",
     "Version": "1.0"
+  },
+  "label": {
+    "CustomGroupControlTemplateName": "",
+    "FirstParty": true,
+    "Id": "http://microsoft.com/appmagic/label",
+    "IsComponentTemplate": false,
+    "IsCustomGroupControlTemplate": false,
+    "IsPcfControl": false,
+    "IsPremiumPcfControl": false,
+    "IsWidgetTemplate": true,
+    "LastModifiedTimestamp": "0",
+    "Name": "label",
+    "OverridableProperties": {},
+    "Version": "2.5.1"
+  },
+  "rectangle": {
+    "CustomGroupControlTemplateName": "",
+    "FirstParty": true,
+    "Id": "http://microsoft.com/appmagic/shapes/rectangle",
+    "IsComponentTemplate": false,
+    "IsCustomGroupControlTemplate": false,
+    "IsPcfControl": false,
+    "IsPremiumPcfControl": false,
+    "IsWidgetTemplate": true,
+    "LastModifiedTimestamp": "0",
+    "Name": "rectangle",
+    "OverridableProperties": {},
+    "Version": "2.3.0"
   },
   "screen": {
     "CustomGroupControlTemplateName": "",
@@ -36,5 +92,19 @@
     "Name": "screen",
     "OverridableProperties": {},
     "Version": "1.0"
+  },
+  "text": {
+    "CustomGroupControlTemplateName": "",
+    "FirstParty": true,
+    "Id": "http://microsoft.com/appmagic/text",
+    "IsComponentTemplate": false,
+    "IsCustomGroupControlTemplate": false,
+    "IsPcfControl": false,
+    "IsPremiumPcfControl": false,
+    "IsWidgetTemplate": true,
+    "LastModifiedTimestamp": "0",
+    "Name": "text",
+    "OverridableProperties": {},
+    "Version": "2.3.2"
   }
 }
